@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Updates database books_users table when users vote for books.
+ * Updates database 'items_users' table when users vote for items.
  * This solution uses a 'direct' database access via transactions
  * as the ActiveRecord as it is cannot do it.
  * @return boolean
