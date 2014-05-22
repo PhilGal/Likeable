@@ -1,6 +1,6 @@
 Likeable
 ========
 
-Likeable behaviour for Yii powered PHP+MySQL application.
+Likeable behaviour for a Yii powered PHP+MySQL application.
 
 Examine README.TXT for details.
